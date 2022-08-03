@@ -4,12 +4,13 @@ https://www.youtube.com/watch?v=I6or4duy15g
 
 It has beautiful interface.
 
+
 We created this chat app,
 you can chat, face time with friends,
 or even post article in it.
 
-We use google firebase as our database. 
 
+We use google firebase as our database. 
 Full project:
 ChatAppTutorial-master.zip
 
