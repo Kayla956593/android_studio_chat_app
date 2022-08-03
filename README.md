@@ -8,6 +8,8 @@ We created this chat app,
 you can chat, face time with friends,
 or even post article in it.
 
+We use google firebase as our database. 
+
 Full project:
 ChatAppTutorial-master.zip
 
