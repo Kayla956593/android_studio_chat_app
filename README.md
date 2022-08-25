@@ -1,8 +1,4 @@
 # android-studio-chat-app
-demo video: 
-https://www.youtube.com/watch?v=I6or4duy15g
-We use google firebase as our database. 
-
 
 此款APP的初衷是希望建立
 資工系學生、業界的工程師、老闆的溝通橋樑
@@ -17,24 +13,24 @@ HR也可以得到新的人力，
 還可以得知競賽資訊。
 增強自己在業界的競爭力。
 
-The original intention of this app is to build
-Communication bridge between salary students, engineers in the industry, and bosses
-Three types of people can chat with each other.
+TThe original intention of this app is to build a Communication bridge between salary students, engineers in the industry, and bosses Three types of people can chat with each other.
 
-Students can learn about job opportunities through our products,
-HR can also get new manpower,
-Even take advantage of FACE TIME for online interviews.
+Students can learn about job opportunities through our products, HR can also get new manpower, and Even take advantage of FACE TIME for online interviews.
 
-In addition to finding job vacancies, students can
-ask programming questions,
-You can also learn about competition information.
-Enhance your competitiveness in the industry.
+In addition to finding job vacancies, students can ask programming questions, You can also learn about competition information. Enhance your competitiveness in the industry.
+
+
 
 Full project:
 ChatAppTutorial-master.zip
 
 previews:
 other java files.
+
+demo video: 
+https://www.youtube.com/watch?v=I6or4duy15g
+We use google firebase as our database. 
+
 
 ![1](https://user-images.githubusercontent.com/79260866/186553006-95705dfb-d00b-4350-895b-ab1b3a98e2fc.jpg)
 ![2](https://user-images.githubusercontent.com/79260866/186553009-db932fa1-ac14-41d1-8382-a07ff095ac67.jpg)
