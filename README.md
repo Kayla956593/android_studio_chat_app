@@ -1,16 +1,35 @@
 # android-studio-chat-app
 demo video: 
 https://www.youtube.com/watch?v=I6or4duy15g
-
-It has beautiful interface.
-
-
-We created this chat app,
-you can chat, face time with friends,
-or even post article in it.
-
-
 We use google firebase as our database. 
+
+
+此款APP的初衷是希望建立
+資工系學生、業界的工程師、老闆的溝通橋樑
+三種人可以互相聊天。
+
+學生可透過我們的產品得知工作機會，
+HR也可以得到新的人力，
+甚至利用FACE TIME進行網路面試。
+
+學生除了可以在此尋找工作職缺、
+詢問程式問題、
+還可以得知競賽資訊。
+增強自己在業界的競爭力。
+
+The original intention of this app is to build
+Communication bridge between salary students, engineers in the industry, and bosses
+Three types of people can chat with each other.
+
+Students can learn about job opportunities through our products,
+HR can also get new manpower,
+Even take advantage of FACE TIME for online interviews.
+
+In addition to finding job vacancies, students can
+ask programming questions,
+You can also learn about competition information.
+Enhance your competitiveness in the industry.
+
 Full project:
 ChatAppTutorial-master.zip
 
