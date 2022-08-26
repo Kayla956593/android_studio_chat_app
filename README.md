@@ -13,7 +13,7 @@ HR也可以得到新的人力，
 還可以得知競賽資訊。
 增強自己在業界的競爭力。
 
-TThe original intention of this app is to build a Communication bridge between salary students, engineers in the industry, and bosses Three types of people can chat with each other.
+The original intention of this app is to build a Communication bridge between salary students, engineers in the industry, and bosses Three types of people can chat with each other.
 
 Students can learn about job opportunities through our products, HR can also get new manpower, and Even take advantage of FACE TIME for online interviews.
 
