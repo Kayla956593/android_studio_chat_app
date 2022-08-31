@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=I6or4duy15g
 We use google firebase as our database. 
 
 
-.Here are the introductions
+. Here are the introductions
 
 
 ![1](https://user-images.githubusercontent.com/79260866/186553006-95705dfb-d00b-4350-895b-ab1b3a98e2fc.jpg)
@@ -40,11 +40,11 @@ We use google firebase as our database.
 ![3](https://user-images.githubusercontent.com/79260866/186553017-4c3da184-daaa-44b1-9c95-79dd60fbc0ae.jpg)
 
 
-.Sign in or sign up with real google account
+. Sign in or sign up with real google account
 
 ![3 1](https://user-images.githubusercontent.com/79260866/186553022-85fb31c9-fdd9-4ff7-ab06-17324ba3046f.jpg)
 
-.fill in personal information while sign up
+. Fill in personal information while sign up
 
 ![3 5](https://user-images.githubusercontent.com/79260866/186553024-32a903d6-e1d2-4d8d-9290-49d22a62993f.jpg)
 
