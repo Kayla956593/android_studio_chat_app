@@ -23,15 +23,16 @@ In addition to finding job vacancies, students can ask programming questions, Yo
 
 Full project:
 ChatAppTutorial-master.zip
-
 previews:
 other java files.
-
-demo video: 
-https://www.youtube.com/watch?v=I6or4duy15g
 We use google firebase as our database. 
 
 
+demo video: 
+https://www.youtube.com/watch?v=I6or4duy15g
+
+
+-----------------------------------
 . Here are the introductions
 
 
