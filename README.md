@@ -49,15 +49,17 @@ We use google firebase as our database.
 ![3 5](https://user-images.githubusercontent.com/79260866/186553024-32a903d6-e1d2-4d8d-9290-49d22a62993f.jpg)
 
 .Select one of four topics to narrow down articles
-Or hit plus to read a article
+
+Or hit plus to read an article
+
 Or hit the icons beside the plus to switch pages
 
 ![4](https://user-images.githubusercontent.com/79260866/186553037-6d7745cc-1868-48c0-bf56-ed68fb574de1.jpg)
 
-. Write a article
+. Write an article
 ![4 5](https://user-images.githubusercontent.com/79260866/186553056-62fbe661-a165-4970-a6c0-9ff2457081d3.jpg)
 
-. Read a article
+. Read an article
 ![5](https://user-images.githubusercontent.com/79260866/186553065-0f607abe-b977-42d1-8e71-0fed5aa74133.jpg)
 
 . Chat interface
