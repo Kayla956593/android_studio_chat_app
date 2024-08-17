@@ -33,15 +33,10 @@ Here are the introductions and screenshots:
 
 ## 使用者流程 | User Flow
 
-1. **註冊或使用 Google 帳號登入 | Sign in or sign up with Google**  
-   使用真實 Google 帳號登入或註冊。  
-   Sign in or sign up with a real Google account.  
-   ![3 1](https://user-images.githubusercontent.com/79260866/186553022-85fb31c9-fdd9-4ff7-ab06-17324ba3046f.jpg)
-
-2. **填寫個人資訊 | Fill in Personal Information**  
-   使用者註冊時需要填寫個人資訊。  
-   Fill in personal information while signing up.  
-   ![3 5](https://user-images.githubusercontent.com/79260866/186553024-32a903d6-e1d2-4d8d-9290-49d22a62993f.jpg)
+1. **註冊或使用 Google 帳號登入 | Sign in or sign up with Google**                      2. **填寫個人資訊 | Fill in Personal Information**  
+   使用真實 Google 帳號登入或註冊。                                                        使用者註冊時需要填寫個人資訊。  
+   Sign in or sign up with a real Google account.                                        Fill in personal information while signing up.  
+   ![3 1](https://user-images.githubusercontent.com/79260866/186553022-85fb31c9-fdd9-4ff7-ab06-17324ba3046f.jpg)  ![3 5](https://user-images.githubusercontent.com/79260866/186553024-32a903d6-e1d2-4d8d-9290-49d22a62993f.jpg)
 
 3. **選擇主題或撰寫文章 | Select Topics or Write an Article**  
    使用者可選擇四個主題中的一個來篩選文章，或點擊加號以撰寫新文章。  
