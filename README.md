@@ -27,7 +27,7 @@ The original intention of this app is to build a communication bridge between st
 ## 預覽 | Previews
 Here are the introductions and screenshots:
 
-![1](https://user-images.githubusercontent.com/79260866/186553006-95705dfb-d00b-4350-895b-ab1b3a98e2fc.jpg)![2](https://user-images.githubusercontent.com/79260866/186553009-db932fa1-ac14-41d1-8382-a07ff095ac67.jpg) ![3](https://user-images.githubusercontent.com/79260866/186553017-4c3da184-daaa-44b1-9c95-79dd60fbc0ae.jpg)
+![1](https://user-images.githubusercontent.com/79260866/186553006-95705dfb-d00b-4350-895b-ab1b3a98e2fc.jpg) ![2](https://user-images.githubusercontent.com/79260866/186553009-db932fa1-ac14-41d1-8382-a07ff095ac67.jpg) ![3](https://user-images.githubusercontent.com/79260866/186553017-4c3da184-daaa-44b1-9c95-79dd60fbc0ae.jpg)
 
 ---
 
@@ -66,8 +66,7 @@ Here are the introductions and screenshots:
 7. **Face Time | 視訊通話**  
    使用者可透過 Face Time 進行視訊面試或會議。  
    Use Face Time for video interviews or meetings.  
-   ![10](https://user-images.githubusercontent.com/79260866/186553078-da7be605-6ec3-4837-b70f-77160924c10e.jpg)![image](https://github.com/user-attachments/assets/3b728461-4a40-4a26-bc74-e0251bbf123d)
-
+   ![10](https://user-images.githubusercontent.com/79260866/186553078-da7be605-6ec3-4837-b70f-77160924c10e.jpg)
 
 ---
 
