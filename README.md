@@ -68,7 +68,8 @@ Here are the introductions and screenshots:
 7. **Face Time | 視訊通話**  
    使用者可透過 Face Time 進行視訊面試或會議。  
    Use Face Time for video interviews or meetings.  
-   ![10](https://user-images.githubusercontent.com/79260866/186553078-da7be605-6ec3-4837-b70f-77160924c10e.jpg)
+   ![10](https://user-images.githubusercontent.com/79260866/186553078-da7be605-6ec3-4837-b70f-77160924c10e.jpg)![image](https://github.com/user-attachments/assets/3b728461-4a40-4a26-bc74-e0251bbf123d)
+
 
 ---
 
