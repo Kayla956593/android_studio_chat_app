@@ -24,11 +24,6 @@ The original intention of this app is to build a communication bridge between st
 
 ---
 
-## 全專案下載 | Full Project Download
-- ChatAppTutorial-master.zip
-
----
-
 ## 預覽 | Previews
 Here are the introductions and screenshots:
 
