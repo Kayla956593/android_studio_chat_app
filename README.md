@@ -38,28 +38,35 @@ Here are the introductions and screenshots:
    
    使用真實 Google 帳號登入或註冊，使用者註冊時需要填寫個人資訊。
    
-   Sign in or sign up with a real Google account. Fill in personal information while signing up.  
+   Sign in or sign up with a real Google account. Fill in personal information while signing up.
+   
    ![3 1](https://user-images.githubusercontent.com/79260866/186553022-85fb31c9-fdd9-4ff7-ab06-17324ba3046f.jpg)  ![3 5](https://user-images.githubusercontent.com/79260866/186553024-32a903d6-e1d2-4d8d-9290-49d22a62993f.jpg)
 
-3. **選擇主題或撰寫文章 | Select Topics or Write an Article**  
-   **撰寫文章 | Write an Article**  
-   使用者可選擇四個主題中的一個來篩選文章，或點擊加號以撰寫新文章。  
-   使用者可以撰寫並分享自己的文章。  
+2. **選擇主題或撰寫文章 | Select Topics or Write an Article**  
+   **撰寫文章 | Write an Article**
+   
+   使用者可選擇四個主題中的一個來篩選文章，或點擊加號以撰寫新文章。  使用者可以撰寫並分享自己的文章。
+   
    Select one of four topics to filter articles, or hit the plus sign to write an article.  
-   Write and share your article.  
+   Write and share your article.
+   
    ![4](https://user-images.githubusercontent.com/79260866/186553037-6d7745cc-1868-48c0-bf56-ed68fb574de1.jpg) ![4 5](https://user-images.githubusercontent.com/79260866/186553056-62fbe661-a165-4970-a6c0-9ff2457081d3.jpg)
 
-4. **閱讀文章 | Read an Article**  
-   **聊天室介面 | Chat Interface**  
-   使用者可以閱讀其他人撰寫的文章。  
-   使用者可以進行即時聊天。  
-   Read articles written by others.  
-   Engage in real-time chat.  
+3. **閱讀文章 | Read an Article**  
+   **聊天室介面 | Chat Interface**
+   
+   使用者可以閱讀其他人撰寫的文章。 使用者可以進行即時聊天。
+   
+   Read articles written by others. Engage in real-time chat.
+   
    ![5](https://user-images.githubusercontent.com/79260866/186553065-0f607abe-b977-42d1-8e71-0fed5aa74133.jpg)![6](https://user-images.githubusercontent.com/79260866/186553067-e4f9d9e8-9bdf-4cf4-9174-7c9144559b4e.jpg)
 
-5. **Face Time | 視訊通話**  
-   使用者可透過 Face Time 進行視訊面試或會議。  
-   Use Face Time for video interviews or meetings.  
+4. **Face Time | 視訊通話**
+   
+   使用者可透過 Face Time 進行視訊面試或會議。
+   
+   Use Face Time for video interviews or meetings.
+   
    ![10](https://user-images.githubusercontent.com/79260866/186553078-da7be605-6ec3-4837-b70f-77160924c10e.jpg)![image](https://github.com/user-attachments/assets/65cfdad3-692e-45b1-bce2-ff4f2e2a23f6)
 
 ---
