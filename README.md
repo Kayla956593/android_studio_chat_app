@@ -2,19 +2,15 @@
 
 ## APP 初衷 | App Purpose
 
-此款 APP 的初衷是希望建立一個資工系學生、業界工程師、老闆之間的溝通橋樑。三者可以互相聊天交流。  
 The original intention of this app is to build a communication bridge between students, engineers in the industry, and business owners. All three can chat with each other.
 
-- 學生可透過我們的產品得知工作機會，HR 也可以找到新人力，甚至可以利用 FACE TIME 進行網路面試。  
-  Students can learn about job opportunities through our platform, HR can find new talents, and they can even use FACE TIME for online interviews.
+- Students can learn about job opportunities through our platform, HR can find new talents, and they can even use FACE TIME for online interviews.
 
-- 學生除了可以尋找工作職缺，詢問程式問題，還能得知競賽資訊，增強自己在業界的競爭力。  
-  In addition to finding job vacancies and asking programming questions, students can also learn about competition information to enhance their competitiveness in the industry.
+- In addition to finding job vacancies and asking programming questions, students can also learn about competition information to enhance their competitiveness in the industry.
 
 ---
 
 ## 使用技術 | Technology Used
-- 我們使用 Google Firebase 作為資料庫。  
   We use Google Firebase as our database.
 
 ---
@@ -36,16 +32,12 @@ Here are the introductions and screenshots:
 1. **註冊或使用 Google 帳號登入 | Sign in or sign up with Google**  
    **填寫個人資訊 | Fill in Personal Information**
    
-   使用真實 Google 帳號登入或註冊，使用者註冊時需要填寫個人資訊。
-   
    Sign in or sign up with a real Google account. Fill in personal information while signing up.
    
    ![3 1](https://user-images.githubusercontent.com/79260866/186553022-85fb31c9-fdd9-4ff7-ab06-17324ba3046f.jpg)  ![3 5](https://user-images.githubusercontent.com/79260866/186553024-32a903d6-e1d2-4d8d-9290-49d22a62993f.jpg)
 
 2. **選擇主題或撰寫文章 | Select Topics or Write an Article**  
    **撰寫文章 | Write an Article**
-   
-   使用者可選擇四個主題中的一個來篩選文章，或點擊加號以撰寫新文章。  使用者可以撰寫並分享自己的文章。
    
    Select one of four topics to filter articles, or hit the plus sign to write an article.  
    Write and share your article.
@@ -55,15 +47,11 @@ Here are the introductions and screenshots:
 3. **閱讀文章 | Read an Article**  
    **聊天室介面 | Chat Interface**
    
-   使用者可以閱讀其他人撰寫的文章。 使用者可以進行即時聊天。
-   
    Read articles written by others. Engage in real-time chat.
    
    ![5](https://user-images.githubusercontent.com/79260866/186553065-0f607abe-b977-42d1-8e71-0fed5aa74133.jpg)![6](https://user-images.githubusercontent.com/79260866/186553067-e4f9d9e8-9bdf-4cf4-9174-7c9144559b4e.jpg)
 
 4. **Face Time | 視訊通話**
-   
-   使用者可透過 Face Time 進行視訊面試或會議。
    
    Use Face Time for video interviews or meetings.
    
@@ -72,6 +60,5 @@ Here are the introductions and screenshots:
 ---
 
 ## 開發過程與挑戰 | Development Process and Challenges
-在開發過程中，我們遇到了如何整合 Firebase 進行即時訊息交換的挑戰，特別是在多用戶同時操作的情況下確保系統的穩定性。除了實作基本的聊天功能，我們還整合了 Face Time 進行視訊通話，這部分需要處理多個 API 和使用者介面之間的交互。整個專案也強調了用戶體驗，透過簡單的註冊流程與清晰的介面設計，讓用戶可以輕鬆找到工作職缺、交流技術問題並參與競賽。
 
 During the development process, we encountered challenges integrating Firebase for real-time messaging, particularly ensuring system stability with multiple users interacting simultaneously. In addition to implementing basic chat functions, we also integrated Face Time for video calling, which required handling several APIs and UI interactions. The project also focused on user experience, making it easy for users to find job vacancies, ask programming questions, and participate in competitions through a straightforward registration process and intuitive interface design.
